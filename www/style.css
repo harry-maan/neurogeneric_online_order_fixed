@@ -1,0 +1,31 @@
+:root { --ng-blue:#0b6e99; --ng-ink:#18313f; --ng-soft:#f3f7fa; }
+body { color:var(--ng-ink); background:#f6f8fb; }
+.navbar { box-shadow:0 2px 12px rgba(20,45,60,.08); }
+.container-fluid { max-width:1500px; }
+.card { border:1px solid #e0e8ee; border-radius:16px; box-shadow:0 4px 18px rgba(20,45,60,.045); margin-bottom:1rem; overflow:hidden; }
+.card-header { background:#fff; font-weight:700; color:var(--ng-ink); border-bottom:1px solid #e8eef2; }
+.btn-lg-touch { min-height:48px; border-radius:12px; margin:.2rem .15rem .5rem 0; }
+.form-control, .form-select { min-height:44px; border-radius:10px; }
+textarea.form-control { min-height:125px; }
+#voice_status { display:inline-block; padding:.35rem .2rem; color:#36596c; font-size:.92rem; overflow-wrap:anywhere; }
+#map { height: min(58vh, 520px) !important; min-height: 320px; border-radius:12px; border:1px solid #d9e4ea; }
+.store-popup { min-width:180px; line-height:1.55; }
+.leaflet-popup-content { margin:12px 14px; }
+.leaflet-control { font-size:12px; }
+.disclaimer { color:#647785; font-size:.86rem; }
+.value-box { border-radius:14px; }
+.dataTables_wrapper { overflow-x:auto; }
+@media (max-width: 768px) {
+  body { font-size:16px; }
+  .container-fluid { padding-left:10px; padding-right:10px; }
+  .card { border-radius:12px; }
+  .card-body { padding: .85rem; }
+  .navbar-brand { font-size:1.05rem; }
+  .btn, .form-check-label { font-size:1rem; }
+  .btn-lg-touch { width:100%; margin:.25rem 0; padding:.75rem; }
+  #map { height: min(62vh, 500px) !important; min-height:330px; }
+  .leaflet-control-zoom a { width:36px !important; height:36px !important; line-height:36px !important; }
+  .leaflet-control-layers-toggle { width:40px !important; height:40px !important; }
+  .leaflet-popup-content { max-width:230px; }
+  .value-box { margin-bottom:.5rem; }
+}

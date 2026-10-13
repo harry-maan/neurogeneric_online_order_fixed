@@ -1,0 +1,22 @@
+"drug_id","generic_name","brand_name","strength","form","pack_size","therapeutic_class","brand_mrp_inr","generic_base_price_inr"
+"D01","levetiracetam","Keppra","500 mg","tablet",10,"Antiepileptic",480,197
+"D02","carbamazepine","Tegretol","200 mg","tablet",10,"Antiepileptic",110,40.5
+"D03","phenytoin","Dilantin","100 mg","tablet",10,"Antiepileptic",60,14.5
+"D04","valproate","Depakote","500 mg","tablet",10,"Antiepileptic",190,55
+"D05","lamotrigine","Lamictal","100 mg","tablet",10,"Antiepileptic",230,85
+"D06","topiramate","Topamax","50 mg","tablet",10,"Antiepileptic / migraine",260,54.5
+"D07","gabapentin","Neurontin","300 mg","capsule",10,"Neuropathic pain / antiepileptic",180,61
+"D08","pregabalin","Lyrica","75 mg","capsule",10,"Neuropathic pain / antiepileptic",250,115
+"D09","levodopa carbidopa","Sinemet","100/25 mg","tablet",10,"Anti-parkinsonian",150,42
+"D10","pramipexole","Mirapex","0.25 mg","tablet",10,"Anti-parkinsonian",140,52
+"D11","ropinirole","Requip","1 mg","tablet",10,"Anti-parkinsonian",160,32
+"D12","donepezil","Aricept","5 mg","tablet",10,"Anti-dementia",210,86
+"D13","memantine","Namenda","10 mg","tablet",10,"Anti-dementia",240,65
+"D14","rivastigmine","Exelon","3 mg","capsule",10,"Anti-dementia",300,135
+"D15","sumatriptan","Imitrex","50 mg","tablet",4,"Anti-migraine (triptan)",320,80
+"D16","amitriptyline","Elavil","25 mg","tablet",10,"Tricyclic (neuropathic pain / migraine prevention)",40,12.5
+"D17","clonazepam","Klonopin","0.5 mg","tablet",10,"Benzodiazepine antiepileptic",60,21.5
+"D18","baclofen","Lioresal","10 mg","tablet",10,"Antispastic",55,11
+"D19","riluzole","Rilutek","50 mg","tablet",10,"ALS disease-modifying",780,234
+"D20","oxcarbazepine","Trileptal","300 mg","tablet",10,"Antiepileptic",190,40
+"D21","lacosamide","Vimpat","100 mg","tablet",10,"Antiepileptic",420,126
